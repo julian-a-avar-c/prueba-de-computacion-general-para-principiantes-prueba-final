@@ -2,598 +2,505 @@
   "fecha": "2023-10-25",
   "instructor": "Technology Instructor ⋅ Unidad y Fe, Iglesia Evangélica Luterana Queens, NY ⋅ Jan 2025–Present",
   "org": "Technology Instructor ⋅ Unidad y Fe, Iglesia Evangélica Luterana Queens, NY",
-  "puntos_totales": 342,
-  "secciones": [
+  "preguntas": [
     {
-      "nombre": "Email & contacts",
-      "preguntas": [
-        {
-          "pregunta": "¿Qué ícono representa normalmente una bandeja de entrada de correo electrónico?",
-          "opciones": [
-            "Un sobre cerrado",
-            "Una carpeta con una flecha",
-            "Un globo terráqueo",
-            "Una campana"
-          ],
-          "respuesta_correcta": "Un sobre cerrado",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "Para adjuntar un archivo en Gmail, debes hacer clic en:",
-          "opciones": [
-            "El clip",
-            "El botón 'Enviar'",
-            "La lupa",
-            "El calendario"
-          ],
-          "respuesta_correcta": "El clip",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué acción NO es posible en una lista de contactos?",
-          "opciones": [
-            "Enviar un correo grupal",
-            "Eliminar un contacto",
-            "Programar una alarma",
-            "Agregar una foto de perfil"
-          ],
-          "respuesta_correcta": "Programar una alarma",
-          "puntaje": 3
-        },
-        {
-          "pregunta": "La autenticación de dos factores en correo electrónico sirve para:",
-          "opciones": [
-            "Aumentar la seguridad",
-            "Recibir más correos",
-            "Borrar mensajes antiguos",
-            "Cambiar el fondo de pantalla"
-          ],
-          "respuesta_correcta": "Aumentar la seguridad",
-          "puntaje": 5
-        }
-      ]
+      "titulo": "¿Qué ícono representa normalmente una bandeja de entrada de correo electrónico?",
+      "respuestas": [
+        "Un sobre",
+        "Una carpeta con una flecha",
+        "Un globo terráqueo",
+        "Una campana"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
     },
     {
-      "nombre": "Busqueda online",
-      "preguntas": [
-        {
-          "pregunta": "¿Cuál es el símbolo usado para buscar frases exactas en Google?",
-          "opciones": [
-            "Comillas (\")",
-            "Asterisco (*)",
-            "Guion (-)",
-            "Hashtag (#)"
-          ],
-          "respuesta_correcta": "Comillas (\")",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué motor de búsqueda prioriza la privacidad?",
-          "opciones": ["DuckDuckGo", "Bing", "Google", "Yahoo"],
-          "respuesta_correcta": "DuckDuckGo",
-          "puntaje": 3
-        },
-        {
-          "pregunta": "Para evitar resultados comerciales, se usa el filtro:",
-          "opciones": [
-            "'Sitios oficiales'",
-            "'Noticias'",
-            "'Imágenes'",
-            "'Videos'"
-          ],
-          "respuesta_correcta": "'Sitios oficiales'",
-          "puntaje": 3
-        },
-        {
-          "pregunta": "¿Qué extensión de archivo se usa para manuales técnicos?",
-          "opciones": [".pdf", ".mp3", ".jpg", ".exe"],
-          "respuesta_correcta": ".pdf",
-          "puntaje": 5
-        }
-      ]
+      "titulo": "Para agregar un adjunto en un mail, es necesario hacer click sobre un icono de:",
+      "respuestas": [
+        "Un clip",
+        "Un botton que dice \"Enviar\"",
+        "Una lupa",
+        "Un calendario"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
     },
     {
-      "nombre": "Descarga de musica",
-      "preguntas": [
-        {
-          "pregunta": "¿Qué aplicación es segura para descargar música?",
-          "opciones": [
-            "YouTube Music",
-            "Sitios desconocidos",
-            "Enlaces en correos spam",
-            "Pop-ups en redes sociales"
-          ],
-          "respuesta_correcta": "YouTube Music",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "Al descargar un archivo, ¿qué ícono indica progreso?",
-          "opciones": [
-            "Una flecha hacia abajo",
-            "Un reloj",
-            "Un corazón",
-            "Una nube"
-          ],
-          "respuesta_correcta": "Una flecha hacia abajo",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué formato es común para música?",
-          "opciones": [".mp3", ".docx", ".xlsx", ".zip"],
-          "respuesta_correcta": ".mp3",
-          "puntaje": 3
-        },
-        {
-          "pregunta": "¿Qué riesgo tiene descargar música ilegal?",
-          "opciones": [
-            "Infección de malware",
-            "Mejor calidad de audio",
-            "Ahorrar espacio",
-            "Más velocidad"
-          ],
-          "respuesta_correcta": "Infección de malware",
-          "puntaje": 5
-        }
-      ]
+      "titulo": "La autenticación de dos factores de correo electrónico sirve para:",
+      "respuestas": [
+        "Aumentar la seguridad",
+        "Recibir más correos",
+        "Borrar mensajes antiguos",
+        "Cambiar el fondo de pantalla"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
     },
     {
-      "nombre": "Organizacion virtual",
-      "preguntas": [
-        {
-          "pregunta": "¿Qué herramienta ayuda a sincronizar archivos entre dispositivos?",
-          "opciones": [
-            "Google Drive",
-            "Calculadora",
-            "Reproductor de música",
-            "Bloc de notas"
-          ],
-          "respuesta_correcta": "Google Drive",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "Para crear una carpeta nueva en Windows 11, se usa:",
-          "opciones": [
-            "Clic derecho > Nuevo > Carpeta",
-            "Menú Inicio > Apagar",
-            "Tecla F12",
-            "Arrastrar un archivo"
-          ],
-          "respuesta_correcta": "Clic derecho > Nuevo > Carpeta",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué símbolo NO se recomienda en nombres de archivo?",
-          "opciones": [
-            "Guion bajo (_)",
-            "Asterisco (*)",
-            "Números",
-            "Letras mayúsculas"
-          ],
-          "respuesta_correcta": "Asterisco (*)",
-          "puntaje": 3
-        },
-        {
-          "pregunta": "¿Qué opción permite ver archivos ocultos en Windows?",
-          "opciones": [
-            "Opciones de carpeta > Mostrar ocultos",
-            "Cambiar fondo de pantalla",
-            "Desinstalar programas",
-            "Reiniciar la PC"
-          ],
-          "respuesta_correcta": "Opciones de carpeta > Mostrar ocultos",
-          "puntaje": 5
-        }
-      ]
+      "titulo": "¿Cuál es el símbolo usado para buscar frases exactas en Google u otror buscador?",
+      "respuestas": [
+        "Comillas `\"`",
+        "Asterisco `*`",
+        "Guion `-`",
+        "Hashtag `#`"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
     },
     {
-      "nombre": "Edicion de fotos",
-      "preguntas": [
-        {
-          "pregunta": "¿Qué aplicación básica de Windows permite recortar imágenes?",
-          "opciones": ["Paint", "WordPad", "Calculadora", "Excel"],
-          "respuesta_correcta": "Paint",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué ajuste controla la claridad de una foto?",
-          "opciones": ["Brillo", "Volumen", "Fuente", "Tamaño de letra"],
-          "respuesta_correcta": "Brillo",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué formato preserva la calidad de la imagen?",
-          "opciones": [".png", ".mp4", ".docx", ".zip"],
-          "respuesta_correcta": ".png",
-          "puntaje": 3
-        },
-        {
-          "pregunta": "¿Qué herramienta online es popular para diseño gráfico?",
-          "opciones": ["Canva", "Excel", "PowerPoint", "WhatsApp"],
-          "respuesta_correcta": "Canva",
-          "puntaje": 5
-        }
-      ]
+      "titulo": "¿Qué búscador prioriza la privacidad?",
+      "respuestas": ["DuckDuckGo", "Bing", "Google", "Yahoo"],
+      "puntaje": 1,
+      "respuesta": ""
     },
     {
-      "nombre": "Edicion de musica",
-      "preguntas": [
-        {
-          "pregunta": "¿Qué programa gratuito permite editar audio?",
-          "opciones": ["Audacity", "Word", "Chrome", "Instagram"],
-          "respuesta_correcta": "Audacity",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué elemento modifica el volumen en una pista?",
-          "opciones": [
-            "Amplitud",
-            "Velocidad de internet",
-            "Tamaño de pantalla",
-            "Tipo de fuente"
-          ],
-          "respuesta_correcta": "Amplitud",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué formato es editable en software de audio?",
-          "opciones": [".wav", ".jpg", ".pdf", ".exe"],
-          "respuesta_correcta": ".wav",
-          "puntaje": 3
-        },
-        {
-          "pregunta": "¿Qué efecto elimina el ruido de fondo?",
-          "opciones": [
-            "Reducción de ruido",
-            "Aumentar bass",
-            "Recortar silencios",
-            "Invertir pista"
-          ],
-          "respuesta_correcta": "Reducción de ruido",
-          "puntaje": 5
-        }
-      ]
+      "titulo": "¿Qué extensión de archivo se usa para manuales técnicos?",
+      "respuestas": ["`.pdf`", "`.mp3`", "`.jpg`", "`.exe`"],
+      "puntaje": 1,
+      "respuesta": ""
     },
     {
-      "nombre": "Edicion de video",
-      "preguntas": [
-        {
-          "pregunta": "¿Qué software básico incluye Windows para edición de video?",
-          "opciones": ["Clipchamp", "Excel", "Paint", "PowerPoint"],
-          "respuesta_correcta": "Clipchamp",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué elemento añade texto sobre un video?",
-          "opciones": [
-            "Títulos",
-            "Transiciones",
-            "Efectos de sonido",
-            "Velocidad de reproducción"
-          ],
-          "respuesta_correcta": "Títulos",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué formato es común para videos en YouTube?",
-          "opciones": [".mp4", ".docx", ".zip", ".exe"],
-          "respuesta_correcta": ".mp4",
-          "puntaje": 3
-        },
-        {
-          "pregunta": "¿Qué herramienta permite unir dos clips de video?",
-          "opciones": [
-            "Cortar y pegar",
-            "Cambiar fuente",
-            "Ajustar brillo",
-            "Rotar imagen"
-          ],
-          "respuesta_correcta": "Cortar y pegar",
-          "puntaje": 5
-        }
-      ]
+      "titulo": "¿Qué formato es común para música?",
+      "respuestas": ["`.mp3`", "`.docx`", "`.mp4`", "`.zip`"],
+      "puntaje": 1,
+      "respuesta": ""
     },
     {
-      "nombre": "Blog",
-      "preguntas": [
-        {
-          "pregunta": "¿Qué plataforma es popular para crear blogs gratuitos?",
-          "opciones": ["Blogger", "Excel", "Photoshop", "PowerPoint"],
-          "respuesta_correcta": "Blogger",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué elemento es esencial en una entrada de blog?",
-          "opciones": [
-            "Título llamativo",
-            "Fondo musical",
-            "Efectos 3D",
-            "Tablas dinámicas"
-          ],
-          "respuesta_correcta": "Título llamativo",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué herramienta ayuda a corregir ortografía?",
-          "opciones": ["Grammarly", "WinRAR", "Spotify", "Zoom"],
-          "respuesta_correcta": "Grammarly",
-          "puntaje": 3
-        },
-        {
-          "pregunta": "¿Qué acción mejora el SEO de un blog?",
-          "opciones": [
-            "Usar palabras clave",
-            "Aumentar tamaño de letra",
-            "Cambiar colores",
-            "Insertar emojis"
-          ],
-          "respuesta_correcta": "Usar palabras clave",
-          "puntaje": 5
-        }
-      ]
+      "titulo": "¿Qué riesgo tiene descargar música ilegal?",
+      "respuestas": [
+        "Infección de malware",
+        "Mejor calidad de audio",
+        "Ahorrar espacio",
+        "Más velocidad"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
     },
     {
-      "nombre": "Servicios bancarios",
-      "preguntas": [
-        {
-          "pregunta": "¿Qué símbolo indica conexión segura en banca online?",
-          "opciones": [
-            "Candado verde",
-            "Flecha roja",
-            "Icono de música",
-            "Letra cursiva"
-          ],
-          "respuesta_correcta": "Candado verde",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué método NO es seguro para compartir contraseñas?",
-          "opciones": [
-            "Mensaje de texto",
-            "Autenticación biométrica",
-            "Token físico",
-            "App del banco"
-          ],
-          "respuesta_correcta": "Mensaje de texto",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué ventaja tiene la banca móvil?",
-          "opciones": [
-            "Pagar facturas desde casa",
-            "Imprimir cheques",
-            "Usar fax",
-            "Enviar cartas"
-          ],
-          "respuesta_correcta": "Pagar facturas desde casa",
-          "puntaje": 3
-        },
-        {
-          "pregunta": "¿Qué es el phishing en banca online?",
-          "opciones": [
-            "Fraude para robar datos",
-            "Un tipo de inversión",
-            "App oficial",
-            "Método de pago"
-          ],
-          "respuesta_correcta": "Fraude para robar datos",
-          "puntaje": 5
-        }
-      ]
+      "titulo": "Para crear una carpeta nueva en Windows 10/11, se usa:",
+      "respuestas": [
+        "Clic derecho > Nuevo > Carpeta",
+        "Menú Inicio > Apagar",
+        "Tecla F12",
+        "Arrastrar un archivo"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
     },
     {
-      "nombre": "Video llamadas",
-      "preguntas": [
-        {
-          "pregunta": "¿Qué app es popular para videollamadas grupales?",
-          "opciones": ["Zoom", "Calculadora", "Paint", "Word"],
-          "respuesta_correcta": "Zoom",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué ícono activa el micrófono en una llamada?",
-          "opciones": [
-            "Micrófono tachado",
-            "Cámara apagada",
-            "Icono de reloj",
-            "Fondo borroso"
-          ],
-          "respuesta_correcta": "Micrófono tachado",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué función permite compartir la pantalla?",
-          "opciones": ["Share Screen", "Mute All", "End Call", "Chat"],
-          "respuesta_correcta": "Share Screen",
-          "puntaje": 3
-        },
-        {
-          "pregunta": "¿Qué mejora la calidad de una videollamada?",
-          "opciones": [
-            "Buena conexión a internet",
-            "Fondo oscuro",
-            "Teclado mecánico",
-            "Mouse inalámbrico"
-          ],
-          "respuesta_correcta": "Buena conexión a internet",
-          "puntaje": 5
-        }
-      ]
+      "titulo": "¿Qué símbolo NO se recomienda en nombres de archivo?",
+      "respuestas": [
+        "Guion bajo `_`",
+        "Asterisco `*`",
+        "Números `[0123456789]`",
+        "Letras mayúsculas `ABCDEFGHIJKLMNÑOPQRSTUVXYZ`"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
     },
     {
-      "nombre": "Cyber seguridad",
-      "preguntas": [
-        {
-          "pregunta": "¿Qué es un antivirus?",
-          "opciones": [
-            "Software para proteger dispositivos",
-            "Tipo de correo electrónico",
-            "Dispositivo de almacenamiento",
-            "Red social"
-          ],
-          "respuesta_correcta": "Software para proteger dispositivos",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué contraseña es más segura?",
-          "opciones": ["Tr4v1s$2023", "123456", "password", "qwerty"],
-          "respuesta_correcta": "Tr4v1s$2023",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué es una VPN?",
-          "opciones": [
-            "Red privada virtual",
-            "Tipo de archivo",
-            "Dispositivo USB",
-            "Fuente de texto"
-          ],
-          "respuesta_correcta": "Red privada virtual",
-          "puntaje": 3
-        },
-        {
-          "pregunta": "¿Qué indica un correo de phishing?",
-          "opciones": [
-            "Solicitud de datos personales urgente",
-            "Oferta legítima de un banco",
-            "Publicidad de Netflix",
-            "Recordatorio de cumpleaños"
-          ],
-          "respuesta_correcta": "Solicitud de datos personales urgente",
-          "puntaje": 5
-        }
-      ]
+      "titulo": "¿Qué opción permite ver archivos ocultos en Windows 10/11?",
+      "respuestas": [
+        "Opciones de carpeta > Mostrar ocultos",
+        "Cambiar fondo de pantalla",
+        "Desinstalar programas",
+        "Reiniciar la PC"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
     },
     {
-      "nombre": "Compra online",
-      "preguntas": [
-        {
-          "pregunta": "¿Qué sitio es seguro para compras?",
-          "opciones": [
-            "Amazon",
-            "Enlace en un correo desconocido",
-            "Pop-up en Facebook",
-            "Sitio sin HTTPS"
-          ],
-          "respuesta_correcta": "Amazon",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué método de pago ofrece más protección?",
-          "opciones": [
-            "Tarjeta de crédito",
-            "Transferencia bancaria",
-            "Bitcoin",
-            "Efectivo por correo"
-          ],
-          "respuesta_correcta": "Tarjeta de crédito",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué verificar antes de comprar?",
-          "opciones": [
-            "Reseñas del producto",
-            "Color del sitio web",
-            "Tamaño del logo",
-            "Fuente de texto"
-          ],
-          "respuesta_correcta": "Reseñas del producto",
-          "puntaje": 3
-        },
-        {
-          "pregunta": "¿Qué es un 'chargeback'?",
-          "opciones": [
-            "Reembolso por transacción fraudulenta",
-            "Aumento de límite de crédito",
-            "Tipo de descuento",
-            "Método de envío"
-          ],
-          "respuesta_correcta": "Reembolso por transacción fraudulenta",
-          "puntaje": 5
-        }
-      ]
+      "titulo": "¿Qué aplicación básica de Windows permite recortar imágenes?",
+      "respuestas": ["Paint", "WordPad", "Calculadora", "Excel"],
+      "puntaje": 1,
+      "respuesta": ""
     },
     {
-      "nombre": "Reparacion de equipo",
-      "preguntas": [
-        {
-          "pregunta": "¿Qué hacer si la computadora no enciende?",
-          "opciones": [
-            "Verificar el cable de alimentación",
-            "Golpear el teclado",
-            "Desinstalar programas",
-            "Cambiar fondo de pantalla"
-          ],
-          "respuesta_correcta": "Verificar el cable de alimentación",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué herramienta limpia archivos temporales en Windows?",
-          "opciones": [
-            "Liberador de espacio",
-            "Paint",
-            "WordPad",
-            "Calculadora"
-          ],
-          "respuesta_correcta": "Liberador de espacio",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué significa 'RAM'?",
-          "opciones": [
-            "Memoria de acceso aleatorio",
-            "Red de área local",
-            "Ratón avanzado móvil",
-            "Reproductor de audio multimedia"
-          ],
-          "respuesta_correcta": "Memoria de acceso aleatorio",
-          "puntaje": 3
-        },
-        {
-          "pregunta": "¿Qué sitio web ofrece guías de reparación?",
-          "opciones": ["iFixit", "YouTube Music", "Netflix", "Instagram"],
-          "respuesta_correcta": "iFixit",
-          "puntaje": 5
-        }
-      ]
+      "titulo": "¿Qué formato preserva la calidad de la imagen?",
+      "respuestas": ["`.png`", "`.jpg`", "`.docx`", "`.zip`"],
+      "puntaje": 1,
+      "respuesta": ""
     },
     {
-      "nombre": "Redes sociales para negocios",
-      "preguntas": [
-        {
-          "pregunta": "¿Qué red es ideal para negocios B2B?",
-          "opciones": ["LinkedIn", "TikTok", "Snapchat", "Pinterest"],
-          "respuesta_correcta": "LinkedIn",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué métrica muestra el alcance de una publicación?",
-          "opciones": ["Impresiones", "Likes", "Emojis", "Fuentes"],
-          "respuesta_correcta": "Impresiones",
-          "puntaje": 1
-        },
-        {
-          "pregunta": "¿Qué herramienta programa publicaciones?",
-          "opciones": [
-            "Hootsuite",
-            "Calculadora",
-            "Bloc de notas",
-            "Reproductor de música"
-          ],
-          "respuesta_correcta": "Hootsuite",
-          "puntaje": 3
-        },
-        {
-          "pregunta": "¿Qué estrategia aumenta engagement?",
-          "opciones": [
-            "Contenido relevante",
-            "Fondos oscuros",
-            "Fuentes pequeñas",
-            "Mensajes largos"
-          ],
-          "respuesta_correcta": "Contenido relevante",
-          "puntaje": 5
-        }
-      ]
+      "titulo": "¿Cual es el formato mas liviano de image?",
+      "respuestas": ["`.png`", "`.jpg`", "`.html`", "`.zip`"],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué herramienta online es popular para diseño gráfico?",
+      "respuestas": ["Photoshop", "Excel", "PowerPoint", "WhatsApp"],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué programa permite editar audio?",
+      "respuestas": ["Audacity", "Word", "Chrome", "Instagram"],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué programa de edicion de texto se puede usar gratuitamente?",
+      "respuestas": [
+        "Microsoft Word",
+        "Microsoft Word 365",
+        "LibreOffice Writer",
+        "Google Docs"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Cual es el formato de texto mas popular en ambientes de oficina?",
+      "respuestas": ["`.docx`", "`.doc`", "`.odt`", "`.txt`"],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Para que sirve un Password Manager?",
+      "respuestas": [
+        "Para guardar contraseñas",
+        "Para borrar contraseñas",
+        "Para resetear contraseñas",
+        "Para acceder contraseñas de cualquier aparato"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Cuales de estos son Password Managers?",
+      "respuestas": [
+        "Proton Pass",
+        "Electron Pass",
+        "One Pass",
+        "Last Pass",
+        "Google Pass",
+        "iOS Passwords",
+        "Norton"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Cual es el navegador mas popular?",
+      "respuestas": [
+        "Microsoft Edge",
+        "Chromium",
+        "Ungoogled Chromium",
+        "Google Chrome",
+        "Firefox",
+        "Librewolf",
+        "Opera",
+        "Vivaldi",
+        "Zen"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Por que es importante tener el navegador mas popular?",
+      "respuestas": [
+        "Para estar de moda",
+        "Porque si",
+        "Es lo mas seguro",
+        "Algunos sitios web no funcionan con navegadores menos populares"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Quien es el proovedor de la siguiente cuenta de email \"juan.carlos.jimenes@gmail.com\"?",
+      "respuestas": ["Gmail", "Google", "Microsoft", "Bing"],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Que informacion guarda un navegador del usuario?",
+      "respuestas": ["Donde vive", "Google", "Microsoft", "Bing"],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué elemento añade texto sobre un video?",
+      "respuestas": [
+        "Títulos",
+        "Transiciones",
+        "Efectos de sonido",
+        "Velocidad de reproducción"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué formato es común para videos en YouTube?",
+      "respuestas": ["`.mp4`", "`.mp5`", "`.zip`", "`.mp3`"],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué herramienta ayuda a corregir ortografía?",
+      "respuestas": ["Grammarly", "WinRAR", "Spotify", "Zoom", "LanguageTool"],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué método NO es seguro para compartir contraseñas?",
+      "respuestas": [
+        "Mensaje de texto",
+        "Mensaje de WhatsApp",
+        "Autenticación biométrica",
+        "Token físico"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué ventaja tiene la banca móvil?",
+      "respuestas": [
+        "Pagar facturas desde casa",
+        "Imprimir cheques",
+        "Usar fax",
+        "Enviar cartas"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué es el phishing en banca online?",
+      "respuestas": [
+        "Fraude para robar datos",
+        "Un tipo de inversión",
+        "App oficial",
+        "Método de pago"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué es vishing?",
+      "respuestas": [
+        "Fraude para robar datos",
+        "Un tipo de inversión",
+        "App oficial",
+        "Método de pago"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué app es popular para videollamadas grupales?",
+      "respuestas": ["Zoom", "Gmail", "Paint", "Word"],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué ícono activa el micrófono en una llamada?",
+      "respuestas": [
+        "Micrófono tachado",
+        "Cámara apagada",
+        "Icono de reloj",
+        "Fondo borroso"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué función permite compartir la pantalla?",
+      "respuestas": ["Share Screen", "Mute All", "End Call", "Chat"],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué mejora la calidad de una videollamada?",
+      "respuestas": [
+        "Buena conexión a internet",
+        "Fondo oscuro",
+        "Teclado mecánico",
+        "Mouse inalámbrico"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué es un antivirus?",
+      "respuestas": [
+        "Software para proteger dispositivos",
+        "Tipo de correo electrónico",
+        "Dispositivo de almacenamiento",
+        "Red social"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué antivirus viene con Windows?",
+      "respuestas": ["Denfender", "McAfee", "Norton", "Spotify"],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué contraseña es más segura?",
+      "respuestas": [
+        "Tr4v1s$2023",
+        "Correct-Horse-Battery-Staple!5",
+        "password",
+        "qwerty"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué es una VPN?",
+      "respuestas": [
+        "Red privada virtual",
+        "Tipo de archivo",
+        "Una manera de compartir archivos",
+        "Fuente de texto"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué hacer si la computadora no enciende?",
+      "respuestas": [
+        "Verificar el cable de alimentación",
+        "Golpear el teclado",
+        "Desinstalar programas",
+        "Poner en la heladera"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué herramienta limpia archivos temporales en Windows?",
+      "respuestas": ["Liberador de espacio", "Paint", "WordPad", "Calculadora"],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué es la fragmentacion?",
+      "respuestas": ["???", "???", "???", "???"],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Donde viven los archivos no guardados?",
+      "respuestas": [
+        "En la RAM",
+        "En el disco duro",
+        "En la bateria",
+        "En una carpeta"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Donde estan los sitios web que accedo?",
+      "respuestas": [
+        "En la RAM",
+        "En el disco duro",
+        "En la bateria",
+        "En una carpeta"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Donde los archivos guardados?",
+      "respuestas": [
+        "En la RAM",
+        "En el disco duro",
+        "En la bateria",
+        "En una carpeta"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Qué sitio web ofrece guías de reparación?",
+      "respuestas": ["iFixit", "YouTube Music", "Netflix", "Instagram"],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Quien es dueño de mis emails si mi cuenta termina en `@gmail.com`?",
+      "respuestas": ["Yo", "Google", "Alphabet", "Amazon", "Facebook", "Nadie"],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Cual es el dispositivo de espacio para archivos mas rapido?",
+      "respuestas": [
+        "NVME SSD",
+        "HDD",
+        "RAM",
+        "Tape",
+        "CD",
+        "DVD",
+        "Bluedisk DVD",
+        "Flash Drive"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Cual es el dispositivo de espacio dura mas?",
+      "respuestas": [
+        "NVME SSD",
+        "HDD",
+        "RAM",
+        "Tape",
+        "CD",
+        "DVD",
+        "Bluedisk DVD",
+        "Flash Drive"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Que puedo hacer si pierdo mi contraseña?",
+      "respuestas": [
+        "Nada",
+        "Recuperarlo con mi numero de telefono",
+        "Recuperarlo con mi email secundario",
+        "Preguntarle a alguien tecnico"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Que puedo hacer si pierdo mi contraseña y el previo metodo no funciona?",
+      "respuestas": [
+        "Nada",
+        "Recuperarlo con mi numero de telefono",
+        "Recuperarlo con mi email secundario",
+        "Preguntarle a alguien tecnico"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "¿Que es una nuve?",
+      "respuestas": [
+        "Un metodo para acceder archivos",
+        "Una herramienta para acceder archivos",
+        "Un programa de Google",
+        "Google Drive"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
+    },
+    {
+      "titulo": "Señale todas las nuves",
+      "respuestas": [
+        "Google Drive",
+        "Microsoft OneDrive",
+        "Un programa de Google",
+        "Google Drive"
+      ],
+      "puntaje": 1,
+      "respuesta": ""
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "fecha": "2023-10-25",
-  "instructor": "Technology Instructor ⋅ Unidad y Fe, Iglesia Evangélica Luterana Queens, NY ⋅ Jan 2025–Present",
-  "org": "Technology Instructor ⋅ Unidad y Fe, Iglesia Evangélica Luterana Queens, NY",
+  "instructor": "Technology Instructor",
+  "org": "Unidad y Fe, Iglesia Evangélica Luterana Queens, NY",
   "preguntas": [
     {
       "titulo": "¿Qué ícono representa normalmente una bandeja de entrada de correo electrónico?",
@@ -37,12 +37,12 @@
       "respuesta": ""
     },
     {
-      "titulo": "¿Cuál es el símbolo usado para buscar frases exactas en Google u otror buscador?",
+      "titulo": "¿Cuál es el símbolo usado para buscar frases exactas en Google u otro buscador?",
       "respuestas": [
-        "Comillas `\"`",
-        "Asterisco `*`",
-        "Guion `-`",
-        "Hashtag `#`"
+        "Comillas \"\"\"",
+        "Asterisco \"*\"",
+        "Guion \"-\"",
+        "Hashtag \"#\""
       ],
       "puntaje": 1,
       "respuesta": ""
@@ -55,13 +55,13 @@
     },
     {
       "titulo": "¿Qué extensión de archivo se usa para manuales técnicos?",
-      "respuestas": ["`.pdf`", "`.mp3`", "`.jpg`", "`.exe`"],
+      "respuestas": ["\".pdf\"", "\".mp3\"", "\".jpg\"", "\".exe\""],
       "puntaje": 1,
       "respuesta": ""
     },
     {
       "titulo": "¿Qué formato es común para música?",
-      "respuestas": ["`.mp3`", "`.docx`", "`.mp4`", "`.zip`"],
+      "respuestas": ["\".mp3\"", "\".docx\"", "\".mp4\"", "\".zip\""],
       "puntaje": 1,
       "respuesta": ""
     },
@@ -90,10 +90,10 @@
     {
       "titulo": "¿Qué símbolo NO se recomienda en nombres de archivo?",
       "respuestas": [
-        "Guion bajo `_`",
-        "Asterisco `*`",
-        "Números `[0123456789]`",
-        "Letras mayúsculas `ABCDEFGHIJKLMNÑOPQRSTUVXYZ`"
+        "Guion bajo \"_\"",
+        "Asterisco \"*\"",
+        "Números \"[0123456789]\"",
+        "Letras mayúsculas \"ABCDEFGHIJKLMNÑOPQRSTUVXYZ\""
       ],
       "puntaje": 1,
       "respuesta": ""
@@ -117,13 +117,13 @@
     },
     {
       "titulo": "¿Qué formato preserva la calidad de la imagen?",
-      "respuestas": ["`.png`", "`.jpg`", "`.docx`", "`.zip`"],
+      "respuestas": ["\".png\"", "\".jpg\"", "\".docx\"", "\".zip\""],
       "puntaje": 1,
       "respuesta": ""
     },
     {
       "titulo": "¿Cual es el formato mas liviano de image?",
-      "respuestas": ["`.png`", "`.jpg`", "`.html`", "`.zip`"],
+      "respuestas": ["\".png\"", "\".jpg\"", "\".html\"", "\".zip\""],
       "puntaje": 1,
       "respuesta": ""
     },
@@ -152,7 +152,7 @@
     },
     {
       "titulo": "¿Cual es el formato de texto mas popular en ambientes de oficina?",
-      "respuestas": ["`.docx`", "`.doc`", "`.odt`", "`.txt`"],
+      "respuestas": ["\".docx\"", "\".doc\"", "\".odt\"", "\".txt\""],
       "puntaje": 1,
       "respuesta": ""
     },
@@ -233,7 +233,7 @@
     },
     {
       "titulo": "¿Qué formato es común para videos en YouTube?",
-      "respuestas": ["`.mp4`", "`.mp5`", "`.zip`", "`.mp3`"],
+      "respuestas": ["\".mp4\"", "\".mp5\"", "\".zip\"", "\".mp3\""],
       "puntaje": 1,
       "respuesta": ""
     },
@@ -423,7 +423,7 @@
       "respuesta": ""
     },
     {
-      "titulo": "¿Quien es dueño de mis emails si mi cuenta termina en `@gmail.com`?",
+      "titulo": "¿Quien es dueño de mis emails si mi cuenta termina en \"@gmail.com\"?",
       "respuestas": ["Yo", "Google", "Alphabet", "Amazon", "Facebook", "Nadie"],
       "puntaje": 1,
       "respuesta": ""

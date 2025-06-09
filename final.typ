@@ -17,12 +17,13 @@
 
   show-student-data: "first-page",
   show-grade-table: false,
-  clarifications: "Responda las preguntas en los espacios proporcionados."
+  // clarifications: "Responda las preguntas en los espacios proporcionados."
 )
 
 #grid(
   columns: (1fr, 1fr),
-  gutter: (2em, 1em),
+  column-gutter: 2em,
+  row-gutter: 1pt,
   ..data.preguntas.map((pregunta) => [
     #question(points: pregunta.puntaje)[#pregunta.titulo]
     #enum(
